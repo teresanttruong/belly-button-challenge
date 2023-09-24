@@ -11,7 +11,9 @@ Complete the following steps:
      - Use sample_values as the values for the bar chart.
      - Use otu_ids as the labels for the bar chart.
      - Use otu_labels as the hovertext for the chart.
+       
     ![hw01](https://github.com/teresanttruong/belly-button-challenge/assets/130198820/088bd04d-02ba-4400-a549-fb72de198d60)
+    
   3. Create a bubble chart that displays each sample.
      - Use otu_ids for the x values.
      - Use sample_values for the y values.
